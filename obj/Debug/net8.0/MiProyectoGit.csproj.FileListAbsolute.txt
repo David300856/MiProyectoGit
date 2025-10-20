@@ -1,0 +1,15 @@
+/workspaces/MiProyectoGit/bin/Debug/net8.0/MiProyectoGit
+/workspaces/MiProyectoGit/bin/Debug/net8.0/MiProyectoGit.deps.json
+/workspaces/MiProyectoGit/bin/Debug/net8.0/MiProyectoGit.runtimeconfig.json
+/workspaces/MiProyectoGit/bin/Debug/net8.0/MiProyectoGit.dll
+/workspaces/MiProyectoGit/bin/Debug/net8.0/MiProyectoGit.pdb
+/workspaces/MiProyectoGit/obj/Debug/net8.0/MiProyectoGit.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/MiProyectoGit/obj/Debug/net8.0/MiProyectoGit.AssemblyInfoInputs.cache
+/workspaces/MiProyectoGit/obj/Debug/net8.0/MiProyectoGit.AssemblyInfo.cs
+/workspaces/MiProyectoGit/obj/Debug/net8.0/MiProyectoGit.csproj.CoreCompileInputs.cache
+/workspaces/MiProyectoGit/obj/Debug/net8.0/MiProyectoGit.sourcelink.json
+/workspaces/MiProyectoGit/obj/Debug/net8.0/MiProyectoGit.dll
+/workspaces/MiProyectoGit/obj/Debug/net8.0/refint/MiProyectoGit.dll
+/workspaces/MiProyectoGit/obj/Debug/net8.0/MiProyectoGit.pdb
+/workspaces/MiProyectoGit/obj/Debug/net8.0/MiProyectoGit.genruntimeconfig.cache
+/workspaces/MiProyectoGit/obj/Debug/net8.0/ref/MiProyectoGit.dll
